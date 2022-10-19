@@ -1,2 +1,1 @@
-# printf
-group project
+my first read me for group project
